@@ -7,7 +7,7 @@ permalink: /room-sharing/
 title: Room and Ride Sharing
 ---
 
-Do you want to share a room [one of the hotels](/venue/#welcome) with other attendees, or do you have local accommodation available? Do you want to drive to DjangoCon US from Charlotte, Greensboro, Raleigh, or other relatively nearby cities?
+Do you want to share a room at [one of the hotels](/venue/#welcome) with other attendees, or do you have local accommodation available? Do you want to drive to DjangoCon US from Charlotte, Greensboro, Raleigh, or other relatively nearby cities?
 
 We have a [Google sheet](https://docs.google.com/spreadsheets/d/1-MESCzq4TmzGf8t1V2FZmdVTfuwuwxBR8mlnPKOa0UU/edit?usp=sharing) just for you! There are tabs for people who already have room
 reservations and are looking for roommates, who haven't yet booked anything, who live locally and want to offer
